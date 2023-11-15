@@ -1,0 +1,94 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "user": {
+        "id": 1,
+        "name": "John Doe"
+      },
+      "category": "Conference",
+      "title": "Tech Summit",
+      "description": "A conference on the latest technology trends.",
+      "location": "City Convention Center",
+      "date": "2023-11-01",
+      "time": "09:00 AM",
+      "attendees": [
+        "Alice",
+        "Bob",
+        "Charlie"
+      ]
+    },
+    {
+      "id": 2,
+      "user": {
+        "id": 2,
+        "name": "Jane Doe"
+      },
+      "category": "Workshop",
+      "title": "Web Development Workshop",
+      "description": "Hands-on workshop on web development.",
+      "location": "Code Academy",
+      "date": "2023-11-05",
+      "time": "02:00 PM",
+      "attendees": [
+        "David",
+        "Emily",
+        "Frank"
+      ]
+    },
+    {
+      "id": 3,
+      "user": {
+        "id": 3,
+        "name": "Alice Smith"
+      },
+      "category": "Networking",
+      "title": "Business Networking Mixer",
+      "description": "An event for professionals to connect and network.",
+      "location": "Sky Lounge",
+      "date": "2023-11-10",
+      "time": "06:30 PM",
+      "attendees": [
+        "George",
+        "Helen",
+        "Ivan"
+      ]
+    },
+    {
+      "id": 4,
+      "user": {
+        "id": 4,
+        "name": "Bob Johnson"
+      },
+      "category": "Seminar",
+      "title": "Marketing Strategies Seminar",
+      "description": "Learn about the latest marketing strategies.",
+      "location": "Marketing Hub",
+      "date": "2023-11-15",
+      "time": "11:00 AM",
+      "attendees": [
+        "Kate",
+        "Liam",
+        "Mia"
+      ]
+    },
+    {
+      "id": 5,
+      "user": {
+        "id": 5,
+        "name": "Eva Green"
+      },
+      "category": "Social",
+      "title": "Annual Company Party",
+      "description": "Celebrate the year's achievements with colleagues.",
+      "location": "Grand Hotel",
+      "date": "2023-11-20",
+      "time": "08:00 PM",
+      "attendees": [
+        "Noah",
+        "Olivia",
+        "Paul"
+      ]
+    }
+  ]
+}
